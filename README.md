@@ -31,4 +31,4 @@ Em máquinas de suporte e atendimento, o acumular de ficheiros temporários nas 
    - Crie um "Valor da Cadeia de Caracteres" apontando para o ficheiro `.vbs`.
 
 ## 👤 Autor
-Desenvolvido por **[Seu Nome/User]** como parte do portfólio de automação e suporte de infraestrutura de TI.
+Desenvolvido por **[Tosaid]** como parte do portfólio de automação e suporte de infraestrutura de TI.
